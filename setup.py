@@ -147,7 +147,6 @@ setup(
     ext_modules=extensions,
     install_requires=[
         'numpy',
-        'cupy>=9.0'
     ],
     license="MIT",
     classifiers=[
